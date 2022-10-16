@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:internet_connectivity/buisness_logic/bloc/bloc/internet_bloc.dart';
-import 'package:internet_connectivity/buisness_logic/cubit/cubit/internet_cubit.dart';
+import 'package:internet_connectivity/buisness_logic/bloc/internet_bloc.dart';
+import 'package:internet_connectivity/buisness_logic/cubit/internet_cubit.dart';
 
 import 'Presentation/screen/home.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
